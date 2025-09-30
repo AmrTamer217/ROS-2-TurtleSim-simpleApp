@@ -1,0 +1,41 @@
+running egg_info
+creating build/ros2_turtle_shapes/ros2_turtle_shapes.egg-info
+writing build/ros2_turtle_shapes/ros2_turtle_shapes.egg-info/PKG-INFO
+writing dependency_links to build/ros2_turtle_shapes/ros2_turtle_shapes.egg-info/dependency_links.txt
+writing entry points to build/ros2_turtle_shapes/ros2_turtle_shapes.egg-info/entry_points.txt
+writing requirements to build/ros2_turtle_shapes/ros2_turtle_shapes.egg-info/requires.txt
+writing top-level names to build/ros2_turtle_shapes/ros2_turtle_shapes.egg-info/top_level.txt
+writing manifest file 'build/ros2_turtle_shapes/ros2_turtle_shapes.egg-info/SOURCES.txt'
+reading manifest file 'build/ros2_turtle_shapes/ros2_turtle_shapes.egg-info/SOURCES.txt'
+writing manifest file 'build/ros2_turtle_shapes/ros2_turtle_shapes.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/amr/ros2_ws/ros2_turtle_shapes/build/ros2_turtle_shapes/build
+creating /home/amr/ros2_ws/ros2_turtle_shapes/build/ros2_turtle_shapes/build/lib
+creating /home/amr/ros2_ws/ros2_turtle_shapes/build/ros2_turtle_shapes/build/lib/ros2_turtle_shapes
+copying ros2_turtle_shapes/shape_node.py -> /home/amr/ros2_ws/ros2_turtle_shapes/build/ros2_turtle_shapes/build/lib/ros2_turtle_shapes
+copying ros2_turtle_shapes/turtle_commander.py -> /home/amr/ros2_ws/ros2_turtle_shapes/build/ros2_turtle_shapes/build/lib/ros2_turtle_shapes
+copying ros2_turtle_shapes/__init__.py -> /home/amr/ros2_ws/ros2_turtle_shapes/build/ros2_turtle_shapes/build/lib/ros2_turtle_shapes
+running install
+running install_lib
+creating /home/amr/ros2_ws/ros2_turtle_shapes/install/ros2_turtle_shapes/lib/python3.12/site-packages/ros2_turtle_shapes
+copying /home/amr/ros2_ws/ros2_turtle_shapes/build/ros2_turtle_shapes/build/lib/ros2_turtle_shapes/shape_node.py -> /home/amr/ros2_ws/ros2_turtle_shapes/install/ros2_turtle_shapes/lib/python3.12/site-packages/ros2_turtle_shapes
+copying /home/amr/ros2_ws/ros2_turtle_shapes/build/ros2_turtle_shapes/build/lib/ros2_turtle_shapes/turtle_commander.py -> /home/amr/ros2_ws/ros2_turtle_shapes/install/ros2_turtle_shapes/lib/python3.12/site-packages/ros2_turtle_shapes
+copying /home/amr/ros2_ws/ros2_turtle_shapes/build/ros2_turtle_shapes/build/lib/ros2_turtle_shapes/__init__.py -> /home/amr/ros2_ws/ros2_turtle_shapes/install/ros2_turtle_shapes/lib/python3.12/site-packages/ros2_turtle_shapes
+byte-compiling /home/amr/ros2_ws/ros2_turtle_shapes/install/ros2_turtle_shapes/lib/python3.12/site-packages/ros2_turtle_shapes/shape_node.py to shape_node.cpython-312.pyc
+byte-compiling /home/amr/ros2_ws/ros2_turtle_shapes/install/ros2_turtle_shapes/lib/python3.12/site-packages/ros2_turtle_shapes/turtle_commander.py to turtle_commander.cpython-312.pyc
+byte-compiling /home/amr/ros2_ws/ros2_turtle_shapes/install/ros2_turtle_shapes/lib/python3.12/site-packages/ros2_turtle_shapes/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/amr/ros2_ws/ros2_turtle_shapes/install/ros2_turtle_shapes/share/ament_index
+creating /home/amr/ros2_ws/ros2_turtle_shapes/install/ros2_turtle_shapes/share/ament_index/resource_index
+creating /home/amr/ros2_ws/ros2_turtle_shapes/install/ros2_turtle_shapes/share/ament_index/resource_index/packages
+copying resource/ros2_turtle_shapes -> /home/amr/ros2_ws/ros2_turtle_shapes/install/ros2_turtle_shapes/share/ament_index/resource_index/packages
+copying package.xml -> /home/amr/ros2_ws/ros2_turtle_shapes/install/ros2_turtle_shapes/share/ros2_turtle_shapes
+creating /home/amr/ros2_ws/ros2_turtle_shapes/install/ros2_turtle_shapes/share/ros2_turtle_shapes/launch
+copying launch/turtle_shapes_launch.py -> /home/amr/ros2_ws/ros2_turtle_shapes/install/ros2_turtle_shapes/share/ros2_turtle_shapes/launch
+running install_egg_info
+Copying build/ros2_turtle_shapes/ros2_turtle_shapes.egg-info to /home/amr/ros2_ws/ros2_turtle_shapes/install/ros2_turtle_shapes/lib/python3.12/site-packages/ros2_turtle_shapes-0.0.0-py3.12.egg-info
+running install_scripts
+Installing shape_node script to /home/amr/ros2_ws/ros2_turtle_shapes/install/ros2_turtle_shapes/lib/ros2_turtle_shapes
+Installing turtle_commander script to /home/amr/ros2_ws/ros2_turtle_shapes/install/ros2_turtle_shapes/lib/ros2_turtle_shapes
+writing list of installed files to '/home/amr/ros2_ws/ros2_turtle_shapes/build/ros2_turtle_shapes/install.log'

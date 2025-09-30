@@ -1,0 +1,22 @@
+[1.070s] Invoking command in '/home/amr/ros2_ws/ros2_turtle_shapes': PYTHONPATH=/home/amr/ros2_ws/build/ros2_turtle_shapes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amr/ros2_ws/install/ros2_turtle_shapes/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/ros2_turtle_shapes build --build-base /home/amr/ros2_ws/build/ros2_turtle_shapes/build install --record /home/amr/ros2_ws/build/ros2_turtle_shapes/install.log --single-version-externally-managed install_data
+[1.451s] running egg_info
+[1.473s] writing ../build/ros2_turtle_shapes/ros2_turtle_shapes.egg-info/PKG-INFO
+[1.473s] writing dependency_links to ../build/ros2_turtle_shapes/ros2_turtle_shapes.egg-info/dependency_links.txt
+[1.477s] writing entry points to ../build/ros2_turtle_shapes/ros2_turtle_shapes.egg-info/entry_points.txt
+[1.478s] writing requirements to ../build/ros2_turtle_shapes/ros2_turtle_shapes.egg-info/requires.txt
+[1.479s] writing top-level names to ../build/ros2_turtle_shapes/ros2_turtle_shapes.egg-info/top_level.txt
+[1.521s] reading manifest file '../build/ros2_turtle_shapes/ros2_turtle_shapes.egg-info/SOURCES.txt'
+[1.524s] writing manifest file '../build/ros2_turtle_shapes/ros2_turtle_shapes.egg-info/SOURCES.txt'
+[1.525s] running build
+[1.525s] running build_py
+[1.525s] running install
+[1.533s] running install_lib
+[1.553s] running install_data
+[1.553s] running install_egg_info
+[1.574s] removing '/home/amr/ros2_ws/install/ros2_turtle_shapes/lib/python3.12/site-packages/ros2_turtle_shapes-0.0.0-py3.12.egg-info' (and everything under it)
+[1.574s] Copying ../build/ros2_turtle_shapes/ros2_turtle_shapes.egg-info to /home/amr/ros2_ws/install/ros2_turtle_shapes/lib/python3.12/site-packages/ros2_turtle_shapes-0.0.0-py3.12.egg-info
+[1.575s] running install_scripts
+[1.758s] Installing shape_node script to /home/amr/ros2_ws/install/ros2_turtle_shapes/lib/ros2_turtle_shapes
+[1.758s] Installing turtle_commander script to /home/amr/ros2_ws/install/ros2_turtle_shapes/lib/ros2_turtle_shapes
+[1.759s] writing list of installed files to '/home/amr/ros2_ws/build/ros2_turtle_shapes/install.log'
+[1.790s] Invoked command in '/home/amr/ros2_ws/ros2_turtle_shapes' returned '0': PYTHONPATH=/home/amr/ros2_ws/build/ros2_turtle_shapes/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amr/ros2_ws/install/ros2_turtle_shapes/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/ros2_turtle_shapes build --build-base /home/amr/ros2_ws/build/ros2_turtle_shapes/build install --record /home/amr/ros2_ws/build/ros2_turtle_shapes/install.log --single-version-externally-managed install_data

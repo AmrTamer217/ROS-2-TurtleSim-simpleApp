@@ -1,0 +1,3 @@
+[console_scripts]
+shape_node = ros2_turtle_shapes.shape_node:main
+turtle_commander = ros2_turtle_shapes.turtle_commander:main

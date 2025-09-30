@@ -4,8 +4,10 @@ This project uses **ROS 2 Jazzy** and **turtlesim** to draw different shapes wit
 
 ## Demo Previews (GIFs)
 
-- Spiral Demo![Spiral Demo](media/spiral.gif)
-- Heart Demo![Heart Demo](media/heart.gif)
+- Spiral Demo
+  ![Spiral Demo](media/spiral.gif)
+- Heart Demo
+  ![Heart Demo](media/heart.gif)
 - Star Demo
   ![Star Demo](media/star.gif)
 
@@ -15,8 +17,8 @@ This project uses **ROS 2 Jazzy** and **turtlesim** to draw different shapes wit
 
 ## Full Demo Video (2 minutes)
 
-[![Full Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)
-](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Full Demo]()
+](https://youtu.be/G4de3aqnAVU)
 
 ---
 
@@ -25,3 +27,4 @@ This project uses **ROS 2 Jazzy** and **turtlesim** to draw different shapes wit
 ```bash
 ros2 launch ros2_turtle_shapes shapes.launch.py
 ```
+
